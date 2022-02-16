@@ -1,6 +1,7 @@
-### Hi there 👋
+![fine](https://user-images.githubusercontent.com/4503787/154201372-143e0ed0-1cdb-42dc-98b8-bb549517e43b.jpg)
 
 <!--
+### Hi there 👋
 **deov31/deov31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
